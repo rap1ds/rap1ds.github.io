@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Mikko's Notes on Clojure(Script)
-# email: your-email@example.com
+email: mikko.koski@iki.fi
 description: >- # this means to ignore newlines until "baseurl:"
   Hi, I'm Mikko, and these are my notes on Clojure(Script).
   I'm writing these notes to while learning more Clojure and ClojureScript and I'm sharing them in hopes of helping others to learn from them.
