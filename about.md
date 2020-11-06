@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I'm Mikko, Clojure(Script) developer from Helsinki, Finland.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I'm working for a company called [Sharetribe](https://www.sharetribe.com). We're building marketplace software using Clojure, ClojureScript and Datomic.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+This blog is a place for my notes about learning Clojure(Script) and documenting related ideas and proof-of-concepts.
 
+You can find the [source code for the blog at Github](https://github.com/rap1ds/rap1ds.github.io). If you find an error, typo or mistake from the blog, you can file an [Issue at Github](https://github.com/rap1ds/rap1ds.github.io/issues).
 
-[jekyll-organization]: https://github.com/jekyll
+All feedback is appreciated!
